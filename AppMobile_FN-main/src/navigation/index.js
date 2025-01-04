@@ -15,8 +15,6 @@ import GroupMembers from '@screens/GroupChat/GroupMembers';
 import {WebRTCCall} from '@screens/WebRTCCall/WebRTCCall';
 import Chat from '@screens/Chats/Stacks/Chat/Chat';
 import Chats from '@screens/Chats/Chats';
-import People from '@screens/People/People';
-import Discover from '@screens/Discover/Discover';
 // import Camera from '@screens/Camera/Camera';
 import ConversationSettings from '@screens/Chats/Stacks/Convesation/ConversationSettings';
 import EditProfile from '@screens/Profile/EditProfile/EditProfile';
